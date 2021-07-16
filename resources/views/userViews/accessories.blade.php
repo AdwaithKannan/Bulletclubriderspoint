@@ -258,7 +258,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/S1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black Touring Rider Seat</h4>
                 <p>INR 1250</p>
@@ -268,7 +268,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/S2.webp" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s2.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black Touring Passenger Seat</h4>
                 <p>INR:1850</p>
@@ -278,7 +278,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/S3.webp" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s3.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black Passenger Backrest Mounts</h4>
                 <p>INR 2750</p>
@@ -288,7 +288,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/S4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black Premium Touring Dual Seat</h4>
                 <p>INR 750</p>
@@ -298,7 +298,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/S5.webp" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/s5.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black Touring Dual Seat</h4>
                 <p>INR 3900</p>
