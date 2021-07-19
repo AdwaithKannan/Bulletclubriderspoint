@@ -45,7 +45,7 @@
            <!--<h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo2.png" alt="" class="img-fluid">&nbsp BULLET<span>CLUB</span>&nbspRiders <span>Point</span></a></h1>
+      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"><!--&nbsp BULLET<span>CLUB</span>&nbspRiders <span>Point</span>--></a></h1>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -63,6 +63,7 @@
             <li> <a href="#security">Security&Maintanance</a></li>
             <li> <a href="#control">Contols</a></li>
             <li> <a href="#wheels">Wheels</a></li>
+            <li> <a href="#tyres">Tyres</a></li>
                 </ul>
               </li>
               
@@ -720,6 +721,89 @@
       </div>
     </section>
 <!-- wheels -->
+<!--tyres--->
+<section id="tyres" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Tyres</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/metzeler tyres.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>metzeler tyres</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/mrf-bike-tyres-250x250.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>MRF Tyers</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/biketyrejk500x5001481964327.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Bike Tyers</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/bridgestone-bike-tyres-500x500.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Bridgestone Tyres</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+          
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/Ceat-Zoom-120-80-17-SDL071943194-1-d39bc.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Ceat Tyres</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/micheline.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>micheline Tyres</h4>
+                <p></p>
+                </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+      </div>
+    </section>
+
+
+
+<!--end tyres--->
     </main><!-- End #main -->
  <!-- ======= Footer ======= -->
  <footer id="footer">

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BULLETCLUN- Accessories & Spares</title>
+  <title>BULLETCLUB- Accessories & Spares</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -45,7 +45,7 @@
            <!--<h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo2.png" alt="" class="img-fluid">&nbsp BULLET<span>CLUB</span>&nbspRiders <span>Point</span></a></h1>
+      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"><!--&nbsp BULLET<span>CLUB</span>&nbspRiders <span>Point</span>--></a></h1>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>

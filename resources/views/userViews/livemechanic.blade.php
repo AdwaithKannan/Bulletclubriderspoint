@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BULLETCLUN- live mechanic</title>
+  <title>BULLETCLUB- live mechanic</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -45,23 +45,14 @@
       <!--<h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid">&nbsp BULLET<span>CLUB</span></a></h1>
+      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"><!--&nbsp BULLET<span>CLUB</span>--></a></h1>
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li><a href="./">Home</a></li>
           <li><a href="./#about">About</a></li>
           <li><a href="./#services">Services</a></li>
-          <li class="drop-down"><a href="">Accessories & Spares</a>
-            <ul>
-            <li> <a href="#protection">Protection</a></li>
-            <li> <a href="#seat">Seats</a></li>
-            <li> <a href="#bodywork">BodyWork</a></li>
-            <li> <a href="#luggage">Luggage</a></li>
-            <li> <a href="#engine">Engine</a></li>
-            <li> <a href="#security">Security&Maintanance</a></li>
-            <li> <a href="#control">Contols</a></li>
-            <li> <a href="#wheels">Wheels</a></li>
-                </ul>
+          <li class="drop-down"><a href="./accessories">Accessories & Spares</a>
+           
               </li>
               
               <li><a href="/ridershub">Riders Hub</a></li>
